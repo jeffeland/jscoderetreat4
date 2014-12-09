@@ -11,7 +11,7 @@ Content of file(GameOfLifeGodPerspective.js) to copy in TDDBin.com.
 
 Game of life from a self conscious cell perspective
 ---------------------------------------------------
-It shows how easy it is to implement the game of life in different ways.   
+It shows how easy it is to implement the game of life in different ways.
 Content of file(GameOfLifeSelfConsciousCellPerspective.js) to copy in TDDBin.com.
 
 Game of life from a computer perspective
