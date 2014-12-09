@@ -1,4 +1,27 @@
-jscoderetreat4
-==============
+JS Code Retreat 4
+=================
 
-Some variations from the jscoderetreat
+Here are some javascript variations following the the JS Code Retreat (http://www.meetup.com/JavaScript-CodeRetreat/events/209200652/)
+
+Game of life from God perspective
+---------------------------------
+This is a biblic version ;-) and so it's really verbose.
+Content of file(GameOfLifeGodPerspective.js) to copy in TDDBin.com.
+
+
+Game of life from a self conscious cell perspective
+---------------------------------------------------
+It shows how easy it is to implement the game of life in different ways.
+Content of file(GameOfLifeSelfConsciousCellPerspective.js) to copy in TDDBin.com.
+
+Game of life from a computer perspective
+----------------------------------------
+It's a version closer to the computer model which makes it a lot less verbose.
+Content of file(GameOfLifeComputerPerspective.js) to copy in TDDBin.com.
+
+
+How to code without using if (3 variations)
+-------------------------------------------
+It was easy to get rid of for and return but more difficult not to use if.
+Here are solutions to get rid of if.
+Content of file(VariationOnIfWithoutIf.js) to copy in TDDBin.com.
