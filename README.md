@@ -28,14 +28,14 @@ Content of file(VariationOnIfWithoutIf.js) to copy in TDDBin.com.
 
 Node.js versions
 ----------------
-*Install node.js from [link](http://nodejs.org/)
-*cd node
-*npm install
-*grunt test (for test only)
-*grunt test-coverage (for test with coverage report)
+* Install node.js from [link](http://nodejs.org/)
+* cd node
+* npm install
+* grunt test (for test only)
+* grunt test-coverage (for test with coverage report)
 
-*Report :
-    *Statements   : 100% ( 83/83 )
-    *Branches     : 100% ( 24/24 )
-    *Functions    : 100% ( 23/23 )
-    *Lines        : 100% ( 83/83 )
+* Report :
+    * Statements   : 100% ( 83/83 )
+    * Branches     : 100% ( 24/24 )
+    * Functions    : 100% ( 23/23 )
+    * Lines        : 100% ( 83/83 )
