@@ -25,3 +25,17 @@ How to code without using if (3 variations)
 It was easy to get rid of for and return but more difficult not to use if.
 Here are solutions to get rid of if.
 Content of file(VariationOnIfWithoutIf.js) to copy in TDDBin.com.
+
+Node.js versions
+----------------
+*Install node.js from [link](http://nodejs.org/)
+*cd node
+*npm install
+*grunt test (for test only)
+*grunt test-coverage (for test with coverage report)
+
+*Report :
+    *Statements   : 100% ( 83/83 )
+    *Branches     : 100% ( 24/24 )
+    *Functions    : 100% ( 23/23 )
+    *Lines        : 100% ( 83/83 )

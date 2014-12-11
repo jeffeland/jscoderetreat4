@@ -1,0 +1,12 @@
+{
+  "name": "javascript-variations",
+  "version": "0.0.1",
+    "grunt": "*",
+  "devDependencies": {
+    "load-grunt-tasks": "*",
+    "grunt-mocha-cli": "*",
+    "assert": "*",
+    "mocha": "*",
+    "grunt-mocha-istanbul": "*"
+  }
+}
